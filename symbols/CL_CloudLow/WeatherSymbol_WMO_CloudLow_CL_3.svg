@@ -47,7 +47,7 @@
   </svg:metadata>
   <svg:g id="g4923">
     <svg:g transform="translate(0.546,-4.99)" id="g4365">
-      <svg:path d="m 46.3,12.8 a 21.8,21.8 0 0 1 -43.6,0 l 21.8,0 z" transform="matrix(-1.03,0,0,-1.03,52.2,61.6)" id="path3003" style="fill:none;stroke:#000000;stroke-width:1.94200003;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
+      <svg:path d="m 46.3,12.8 a 21.8,21.8 0 0 1 -43.6,0 l 21.8,0 H 45.8" transform="matrix(-1.03,0,0,-1.03,52.2,61.6)" id="path3003" style="fill:none;stroke:#000000;stroke-width:1.94200003;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
       <svg:path d="m 16.1,27.6 a 10.8,10.8 0 1 1 21.5,0" id="path3003-1" style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
     </svg:g>
     <svg:path d="m 27.6,11.6 0,17.6" id="path4406" style="fill:none;stroke:#000000;stroke-width:1.93900001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
